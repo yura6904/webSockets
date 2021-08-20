@@ -1,0 +1,5 @@
+{
+    "PORT" : 5000,
+    "mongoUri": "mongodb+srv://yuriy:1997x1997@cluster0.z1i0e.mongodb.net/webSocketTest?retryWrites=true&w=majority",
+    "jwtSecret": "biryulin"
+}
